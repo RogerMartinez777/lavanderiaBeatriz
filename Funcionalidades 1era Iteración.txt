@@ -1,0 +1,17 @@
+API - Swagger - EF
+
+- Get Acolchado (todos)
+- Post Acolchado
+- Put Acolchado
+
+- Get Cliente (todos)
+- Post Cliente
+- Put Cliente
+- Put Cliente (Nombre)
+
+- Get Encargados (todos)
+- Get Encargados (puesto)
+- Post Encargado
+- Put Encargado (puesto)
+- Put encargado (fechaNac)
+- Delete Encargado

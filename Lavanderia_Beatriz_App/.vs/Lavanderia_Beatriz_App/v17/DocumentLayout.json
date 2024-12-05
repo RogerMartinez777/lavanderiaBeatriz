@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\models\\acolchado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:models\\acolchado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\models\\lavanderiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:models\\lavanderiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\repositories\\lavanderiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:repositories\\lavanderiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\repositories\\ilavanderiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:repositories\\ilavanderiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\controllers\\acolchadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:controllers\\acolchadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\controllers\\encargadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:controllers\\encargadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\models\\encargadosrecep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:models\\encargadosrecep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\models\\tamanio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:models\\tamanio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\models\\tipospuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:models\\tipospuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\models\\tiposcobro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:models\\tiposcobro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\repositories\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:repositories\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|e:\\personal\\proyectolavanderiabeatriz\\lavanderia_beatriz_app\\repositories\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F341-BF73-4926-A1C2-10BB618EE228}|Lavanderia_Beatriz_App.csproj|solutionrelative:repositories\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acolchado.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\Acolchado.cs",
+              "RelativeDocumentMoniker": "Models\\Acolchado.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\Acolchado.cs",
+              "RelativeToolTip": "Models\\Acolchado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:36:40.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILavanderiaRepository.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\ILavanderiaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILavanderiaRepository.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\ILavanderiaRepository.cs",
+              "RelativeToolTip": "Repositories\\ILavanderiaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:10:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TiposPuesto.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\TiposPuesto.cs",
+              "RelativeDocumentMoniker": "Models\\TiposPuesto.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\TiposPuesto.cs",
+              "RelativeToolTip": "Models\\TiposPuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:11:09.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncargadoController.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Controllers\\EncargadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EncargadoController.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Controllers\\EncargadoController.cs",
+              "RelativeToolTip": "Controllers\\EncargadoController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:36:09.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcolchadoController.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Controllers\\AcolchadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AcolchadoController.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Controllers\\AcolchadoController.cs",
+              "RelativeToolTip": "Controllers\\AcolchadoController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:13:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:06:33.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LavanderiaRepository.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\LavanderiaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LavanderiaRepository.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\LavanderiaRepository.cs",
+              "RelativeToolTip": "Repositories\\LavanderiaRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv3MAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:13:08.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncargadosRecep.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\EncargadosRecep.cs",
+              "RelativeDocumentMoniker": "Models\\EncargadosRecep.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\EncargadosRecep.cs",
+              "RelativeToolTip": "Models\\EncargadosRecep.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:10:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tamanio.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\Tamanio.cs",
+              "RelativeDocumentMoniker": "Models\\Tamanio.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\Tamanio.cs",
+              "RelativeToolTip": "Models\\Tamanio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:20:07.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LavanderiaContext.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\LavanderiaContext.cs",
+              "RelativeDocumentMoniker": "Models\\LavanderiaContext.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\LavanderiaContext.cs",
+              "RelativeToolTip": "Models\\LavanderiaContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:00:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:58:24.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TiposCobro.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\TiposCobro.cs",
+              "RelativeDocumentMoniker": "Models\\TiposCobro.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Models\\TiposCobro.cs",
+              "RelativeToolTip": "Models\\TiposCobro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:20:45.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T17:44:54.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:48:24.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Repositories\\Utils\\DataHelper.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Repositories\\Utils\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:36:53.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParameterSQL.cs",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\Utils\\ParameterSQL.cs",
+              "RelativeDocumentMoniker": "Repositories\\Utils\\ParameterSQL.cs",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\Repositories\\Utils\\ParameterSQL.cs",
+              "RelativeToolTip": "Repositories\\Utils\\ParameterSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:39:31.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Personal\\ProyectoLavanderiaBeatriz\\Lavanderia_Beatriz_App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T19:31:21.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

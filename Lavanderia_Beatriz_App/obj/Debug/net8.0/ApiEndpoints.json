@@ -1,0 +1,212 @@
+[
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.AcolchadoController",
+    "Method": "Get",
+    "RelativePath": "Acolchado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.AcolchadoController",
+    "Method": "Post",
+    "RelativePath": "Acolchado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "acolchado",
+        "Type": "Lavanderia_Beatriz_App.Models.Acolchado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.AcolchadoController",
+    "Method": "Put",
+    "RelativePath": "Acolchado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "precio",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.ClienteController",
+    "Method": "Post",
+    "RelativePath": "Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "Lavanderia_Beatriz_App.Models.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.ClienteController",
+    "Method": "Put",
+    "RelativePath": "Cliente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "Lavanderia_Beatriz_App.Models.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.ClienteController",
+    "Method": "Put_Nombre",
+    "RelativePath": "Cliente/Nombre",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.ClienteController",
+    "Method": "Get",
+    "RelativePath": "Cliente/Todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.EncargadoController",
+    "Method": "Post",
+    "RelativePath": "Encargado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "encargado",
+        "Type": "Lavanderia_Beatriz_App.Models.EncargadosRecep",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.EncargadoController",
+    "Method": "Delete",
+    "RelativePath": "Encargado",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.EncargadoController",
+    "Method": "PutAlias",
+    "RelativePath": "Encargado/Date",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "alias",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaNac",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.EncargadoController",
+    "Method": "Get_EncPorPuesto",
+    "RelativePath": "Encargado/PorPuesto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "puesto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.EncargadoController",
+    "Method": "Put",
+    "RelativePath": "Encargado/Puesto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lavanderia_Beatriz_App.Controllers.EncargadoController",
+    "Method": "Get",
+    "RelativePath": "Encargado/Todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lavanderia_Beatriz_App.props" />
+</Project>

@@ -1,0 +1,350 @@
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\appsettings.Development.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\appsettings.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.exe
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.deps.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.runtimeconfig.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.pdb
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.csproj.AssemblyReference.cache
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.GeneratedMSBuildEditorConfig.editorconfig
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.AssemblyInfoInputs.cache
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.AssemblyInfo.cs
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.csproj.CoreCompileInputs.cache
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.MvcApplicationPartsAssemblyInfo.cs
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.MvcApplicationPartsAssemblyInfo.cache
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets.build.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets.development.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.Lavanderia_Beatriz_App.Microsoft.AspNetCore.StaticWebAssets.props
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.build.Lavanderia_Beatriz_App.props
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lavanderia_Beatriz_App.props
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lavanderia_Beatriz_App.props
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets.pack.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\scopedcss\bundle\Lavanderia_Beatriz_App.styles.css
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavander.CF7AFEAC.Up2Date
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\refint\Lavanderia_Beatriz_App.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.pdb
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.genruntimeconfig.cache
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\obj\Debug\net8.0\ref\Lavanderia_Beatriz_App.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\efpt.config.json
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Azure.Core.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Azure.Identity.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Humanizer.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.ClientModel.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.CodeDom.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Memory.Data.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Text.Json.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\P E R S O N A L -----\--- Proyecto Lavanderia Beatriz ---\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\appsettings.Development.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\appsettings.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\efpt.config.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.exe
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.deps.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.runtimeconfig.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Lavanderia_Beatriz_App.pdb
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Azure.Core.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Azure.Identity.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Humanizer.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.ClientModel.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.CodeDom.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Text.Json.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.csproj.AssemblyReference.cache
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.AssemblyInfoInputs.cache
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.AssemblyInfo.cs
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.csproj.CoreCompileInputs.cache
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.MvcApplicationPartsAssemblyInfo.cs
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.MvcApplicationPartsAssemblyInfo.cache
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets.build.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets.development.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.Lavanderia_Beatriz_App.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.build.Lavanderia_Beatriz_App.props
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lavanderia_Beatriz_App.props
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lavanderia_Beatriz_App.props
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\scopedcss\bundle\Lavanderia_Beatriz_App.styles.css
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavander.CF7AFEAC.Up2Date
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\refint\Lavanderia_Beatriz_App.dll
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.pdb
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\Lavanderia_Beatriz_App.genruntimeconfig.cache
+E:\Personal\ProyectoLavanderiaBeatriz\Lavanderia_Beatriz_App\obj\Debug\net8.0\ref\Lavanderia_Beatriz_App.dll
